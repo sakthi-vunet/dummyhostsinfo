@@ -10,7 +10,7 @@
       "health_status": "Not Available",
       "services": [
         {
-          "Name": "Potter",
+          "Name": "Vsmaps services",
           "Instances": 3
         },
         {
