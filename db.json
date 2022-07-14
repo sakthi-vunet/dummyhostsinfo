@@ -26,7 +26,7 @@
         "host-1",
         "main-host"
       ],
-      "number of cores": 4,
+      "number_of_cores": 4,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -63,7 +63,7 @@
         "host-2",
         "side1-host"
       ],
-      "number of cores": 4,
+      "number_of_cores": 4,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -92,7 +92,7 @@
         "host-3",
         "side1-host"
       ],
-      "number of cores": 4,
+      "number_of_cores": 4,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -129,7 +129,7 @@
         "host-3",
         "side1-host"
       ],
-      "number of cores": 4,
+      "number_of_cores": 4,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -162,7 +162,7 @@
         "host-4",
         "side1-host"
       ],
-      "number of cores": 4,
+      "number_of_cores": 4,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -195,7 +195,7 @@
         "host-2",
         "side1-host"
       ],
-      "number of cores": 3,
+      "number_of_cores": 3,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -224,7 +224,7 @@
         "host-5",
         "side1-host"
       ],
-      "number of cores": 3,
+      "number_of_cores": 3,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
@@ -257,7 +257,7 @@
         "host-5",
         "side1-host"
       ],
-      "number of cores": 3,
+      "number_of_cores": 3,
       "processor_type": "Intel Core",
       "memory": "15.4 GiB",
       "total_storage": "512 GiB",
